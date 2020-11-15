@@ -2,8 +2,8 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brad-webb-101/)
 
-The meaning of life is 
-$$t = \frac{\bar x - \mu}{s - \sqrt{n}}$$
+The secret to understanding the world
+<img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s - \sqrt{n}}">
 
 :mega: Languages   
 * Python
