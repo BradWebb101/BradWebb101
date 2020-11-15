@@ -3,6 +3,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brad-webb-101/)
 
 The secret to understanding the world
+</br>
 <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s - \sqrt{n}}">
 
 :mega: Languages   
