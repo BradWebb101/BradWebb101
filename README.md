@@ -4,6 +4,7 @@
 
 The secret to understanding the world
 </br>
+</br>
 <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s - \sqrt{n}}">
 
 :mega: Languages   
