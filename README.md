@@ -11,10 +11,18 @@
 * Python
 * Javascript (Node)
 * SQL
+* GIT
+
+✨ Skillset
+* Econometrics analysis
+* Business statistics (A|B Testing & Campaign Analysis)
+* Process automation
+* Solving business problems 
 
 🌱 I’m currently learning:    
 * Typescript
 * AWS cloud
+
                                 
                                 
 <!--
