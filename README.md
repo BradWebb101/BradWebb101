@@ -1,20 +1,14 @@
----
-useMath: true
----
-
 # Welcome to my GitHub
-
-## 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/brad-webb-101/) |
-[Website](https://bradwebb101.com)
 
 ## 🔭 The secret to understanding the world
 
-<div class='math'>
-\begin{equation}
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+$\huge
 t = \frac{\bar x - \mu}{s - \sqrt{n}}
-\end{equation}
-</div>
+$
+
 
 ## :mega: Languages:
 
