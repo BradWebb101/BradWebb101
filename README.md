@@ -1,3 +1,7 @@
+---
+useMath: true
+---
+
 # Welcome to my GitHub
 
 ## 📫 How to reach me: 
@@ -6,7 +10,11 @@
 
 ## 🔭 The secret to understanding the world
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;t = \frac{\bar x - \mu}{s - \sqrt{n}}" title="Student T-test" />
+<div class='math'>
+\begin{equation}
+t = \frac{\bar x - \mu}{s - \sqrt{n}}
+\end{equation}
+</div>
 
 ## :mega: Languages:
 
