@@ -5,7 +5,8 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-$\huge
+
+$
 t = \frac{\bar x - \mu}{s - \sqrt{n}}
 $
 
