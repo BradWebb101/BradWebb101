@@ -5,11 +5,7 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-$
-t = \frac{\bar x - \mu}{s - \sqrt{n}}
-$
-
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1t = \frac{\bar x - \mu}{s -\sqrt{n}})
 
 ## :mega: Languages:
 
