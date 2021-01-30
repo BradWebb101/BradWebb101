@@ -2,10 +2,7 @@
 
 ## 🔭 The secret to understanding the world
 
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1t = \frac{\bar x - \mu}{s -\sqrt{n}})
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s -\sqrt{n}}" width="150" height="100">
 
 ## :mega: Languages:
 
