@@ -13,10 +13,10 @@
 
 ## ✨ Skillset
 
-* Econometrics analysis
+* Data Engineering 
 * Business analytics (A|B Testing & Forecasting)
 * Process automation
-* Data Engineering 
+* Econometrics analysis
 
 ## 🌱 I’m currently learning:
 
