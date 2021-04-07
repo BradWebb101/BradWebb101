@@ -15,11 +15,10 @@
 
 * Econometrics analysis
 * Business analytics (A|B Testing & Forecasting)
-* Customer Insights (Propensity, Churn, Segmentation)
 * Process automation
+* Data Engineering 
 
 ## 🌱 I’m currently learning:
 
-* Typescript
 * AWS cloud
 * React
