@@ -14,11 +14,12 @@
 ## ✨ Skillset
 
 * Data Engineering 
-* Business analytics (A|B Testing & Forecasting)
+* Business analytics (A|B Testing & Campaign Analysis)
 * Process automation
-* Econometrics analysis
+* Econometrics Analysis
 
 ## 🌱 I’m currently learning:
 
-* AWS cloud
-* React
+* AWS cloud (Solutions Architect Cert scheduled)
+* ~~React~~ Decided i no longer want to go down this path
+* Serverless 
