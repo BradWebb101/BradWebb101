@@ -16,10 +16,10 @@
 * Data Engineering 
 * Business analytics (A|B Testing & Campaign Analysis)
 * Process automation
-* Econometrics Analysis
+* Econometrics Analysis (Forecasting)
 
 ## 🌱 I’m currently learning:
 
 * AWS cloud (Solutions Architect Cert scheduled)
-* ~~React~~ Decided i no longer want to go down this path
-* Serverless 
+* React
+* Serverless Infrastructure
