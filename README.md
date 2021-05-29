@@ -7,7 +7,7 @@
 ## :mega: Languages/Tech:
 
 * Python
-* Node.js 
+* Node
 * SQL
 * GIT
 * Docker
