@@ -17,9 +17,11 @@
 * Business analytics (A|B Testing & Campaign Analysis)
 * Process automation
 * Econometrics Analysis (Forecasting)
+* Databases (SQL/NoSQL)
 
 ## 🌱 I’m currently learning:
 
 * AWS cloud (Solutions Architect Cert scheduled)
 * React
 * Serverless Infrastructure
+* Spark/Databricks
