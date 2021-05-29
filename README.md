@@ -4,12 +4,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s -\sqrt{n}}" width="120" height="80">
 
-## :mega: Languages:
+## :mega: Languages/Tech:
 
 * Python
 * Node.js 
 * SQL
 * GIT
+* Docker
+* SQL and NoSQL databases
 
 ## ✨ Skillset
 
@@ -17,7 +19,6 @@
 * Business analytics (A|B Testing & Campaign Analysis)
 * Process automation
 * Econometrics Analysis (Forecasting)
-* SQL and NoSQL databases
 
 ## 🌱 I’m currently learning:
 
