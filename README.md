@@ -16,7 +16,7 @@
 ## ✨ Skillset
 
 * Data Engineering 
-* Business analytics (A|B Testing & Campaign Analysis)
+* Business statistics (A|B Testing & Campaign Analysis)
 * Process automation
 * Econometrics Analysis (Forecasting)
 
