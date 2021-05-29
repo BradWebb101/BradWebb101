@@ -7,7 +7,7 @@
 ## :mega: Languages:
 
 * Python
-* Javascript
+* Node.js 
 * SQL
 * GIT
 
@@ -17,7 +17,7 @@
 * Business analytics (A|B Testing & Campaign Analysis)
 * Process automation
 * Econometrics Analysis (Forecasting)
-* Databases (SQL/NoSQL)
+* SQL and NoSQL databases
 
 ## 🌱 I’m currently learning:
 
