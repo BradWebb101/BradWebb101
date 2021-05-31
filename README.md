@@ -8,10 +8,9 @@
 
 * Python
 * Javascript (Node, React)
-* SQL
+* SQL and NoSQL databases
 * GIT
 * Docker
-* SQL and NoSQL databases
 
 ## ✨ Skillset
 
