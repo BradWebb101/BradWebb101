@@ -7,7 +7,7 @@
 ## :mega: Languages/Tech:
 
 * Python
-* Node
+* Javascript (Node, React)
 * SQL
 * GIT
 * Docker
@@ -16,13 +16,14 @@
 ## ✨ Skillset
 
 * Data Engineering 
-* Business statistics (A|B Testing & Campaign Analysis)
+* Business statistics (A|B Testing & Econometrics)
 * Process automation
-* Econometrics Analysis (Forecasting)
+* Insight Analysis
+* AWS Cloud 
 
-## 🌱 I’m currently learning:
+## 🌱 I’m currently playing with:
 
-* AWS cloud (Solutions Architect Cert scheduled)
-* React
+* Solutions Architect Cert (AWS)
 * Serverless Infrastructure
+* GraphQL
 * Spark/Databricks
