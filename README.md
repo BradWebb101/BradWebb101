@@ -8,6 +8,7 @@
 
 * Python
 * Javascript (Node, React)
+* Typescript (ish)
 * SQL and NoSQL databases
 * GIT
 * Docker
@@ -24,5 +25,6 @@
 
 * Solutions Architect Cert (AWS)
 * Serverless Infrastructure
+* Typescript
 * GraphQL
 * Spark/Databricks
