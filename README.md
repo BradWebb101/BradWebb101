@@ -21,10 +21,11 @@
 * Insight Analysis
 * AWS Cloud 
 
-## 🌱 I’m currently playing with:
+## 🌱 I’m currently working on:
 
 * Solutions Architect Cert (AWS)
 * Serverless Infrastructure
 * Typescript
+* Snowflake 
 * GraphQL
 * Spark/Databricks
