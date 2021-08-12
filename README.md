@@ -2,7 +2,7 @@
 
 ## 🔭 The secret to understanding the world
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s -\sqrt{n}}" width="120" height="80">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s / \sqrt{n}}" width="120" height="80">
 
 ## :mega: Languages/Tech:
 
