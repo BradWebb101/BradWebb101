@@ -8,24 +8,21 @@
 
 * Python
 * Javascript (Node, React)
-* Typescript (ish)
-* SQL and NoSQL databases
-* GIT
-* Docker
+* Typescript (AWS CDK)
+* Databases (SQL, Snowflake and DynamoDB)
+* A bit of Dev-ops in the mix (Docker, GIT, AWS amplify)
 
 ## ✨ Skillset
 
-* Data Engineering 
-* Business statistics (A|B Testing & Econometrics)
-* Process automation
-* Insight Analysis
+* Data Engineering (AWS, Snowflake)
+* Analytics 
+* Finance/Fintech (Timeseries, not into Crypto's)
 * AWS Cloud 
 
 ## 🌱 I’m currently working on:
 
-* Solutions Architect Cert (AWS)
+* AWS Developer (AWS)
 * Serverless Infrastructure
-* Typescript
-* Snowflake 
-* GraphQL
-* Spark/Databricks
+* Typescript (An up hill battle)
+* Snowflake and Snowpark(Python)
+* GraphQL 
