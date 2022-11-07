@@ -16,7 +16,8 @@
 
 * Data Engineering (AWS, Snowflake)
 * Analytics 
-* AWS Cloud 
+* Cloud native design 
+* Serverless 
 
 ## 🌱 I’m currently working on:
 
