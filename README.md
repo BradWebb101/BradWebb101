@@ -7,22 +7,23 @@
 ## :mega: Languages/Tech:
 
 * Python
-* Javascript (Node, React)
+* Javascript (Node)
 * Typescript (AWS CDK)
 * Databases (SQL, Snowflake and DynamoDB)
-* A bit of Dev-ops in the mix (Docker, GIT, AWS amplify)
+* A bit of Dev-ops in the mix (Docker, GIT)
 
 ## ✨ Skillset
 
 * Data Engineering (AWS, Snowflake)
 * Analytics 
-* Finance/Fintech (Timeseries, not into Crypto's)
 * AWS Cloud 
 
 ## 🌱 I’m currently working on:
 
-* AWS Developer (AWS)
+* AWS Developer Certification
+* Snowpro Core Certification
+* Snowpro Advanced Data Engineering 
 * Serverless Infrastructure
 * Typescript (An up hill battle)
-* Snowflake and Snowpark(Python)
-* GraphQL 
+* Snowpark(Python)
+
