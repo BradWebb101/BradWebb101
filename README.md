@@ -17,14 +17,13 @@
 * Data Engineering (AWS, Snowflake)
 * Analytics 
 * Cloud native design 
-* Serverless 
+* Serverless event-driven architecture
 
 ## 🌱 I’m currently working on:
 
-* AWS Developer Certification
-* Snowpro Core Certification
+* Apollo GraphQL
 * Snowpro Advanced Data Engineering 
-* Serverless Infrastructure
 * Typescript (An up hill battle)
-* Snowpark(Python)
+* Working through the backlog, of websites I have promised friends
+
 
