@@ -19,11 +19,16 @@
 * Cloud native design 
 * Serverless event-driven architecture
 
+## 🐙 Certifications
+* AWS Certified Cloud Practitioner
+* AWS Certified Developer - Associate
+* Snowpro Core
+
 ## 🌱 I’m currently working on:
 
 * Apollo GraphQL
 * Snowpro Advanced Data Engineering 
 * Typescript (An up hill battle)
-* Working through the backlog, of websites I have promised friends
+* Working through the backlog of websites I have promised friends
 
 
