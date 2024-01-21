@@ -1,34 +1,31 @@
 # Welcome to my GitHub
 
-## 🔭 The secret to understanding the world
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://render.githubusercontent.com/render/math?math=t = \frac{\bar x - \mu}{s / \sqrt{n}}" width="120" height="80">
+## 🔭 I live my life 100 Lambda functions at a time. A Serverless Developers moto.
 
 ## :mega: Languages/Tech:
 
 * Python
-* Javascript (Node)
-* Typescript (AWS CDK)
-* Databases (SQL, Snowflake and DynamoDB)
-* A bit of Dev-ops in the mix (Docker, GIT)
+* Typescript
+* AWS CDK
+* Databases (SQL, Athena(Serverless woop woop), Snowflake and DynamoDB)
 
 ## ✨ Skillset
 
-* Data Engineering (AWS, Snowflake)
-* Analytics 
-* Cloud native design 
+* Scalable AWS Data solutions
 * Serverless event-driven architecture
+* Analytics 
+* Database design and Management.
 
 ## 🐙 Certifications
 * AWS Certified Cloud Practitioner
 * AWS Certified Developer - Associate
-* Snowpro Core
+* AWS Certified Solutions Architect - Associate
 
 ## 🌱 I’m currently working on:
 
-* Apollo GraphQL
-* Snowpro Advanced Data Engineering 
-* Typescript (An up hill battle)
-* Working through the backlog of websites I have promised friends
+* Trying to debug Typescript type errors, with one hand tied behind my back
+* Working on testing and validation of AWS data pipelines
+* Django, seems an ok framework for SQL database managment 
+* API query efficency. Just because a company doesnt state their max requests per minute. Doesnt mean it doesnt exist. 
 
 
