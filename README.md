@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
 ## 🎯 About Me
-I'm a Serverless AWS Developer working in the AI Center of Excellence (AICoE) at PostNL in the Netherlands. When I'm not crafting cloud solutions, you'll find me exploring the latest in AI and cloud technologies! 🚀
+I'm a Serverless AWS Developer working in the AI Center of Excellence (AICoE) at PostNL in the Netherlands. When I'm not crafting cloud solutions, you'll find me eating Stroop Waffles, Riding bicycles, Perfecting my Lasagne and Training Jiu Jitsu.
 
 ## 🛠️ Tech Stack
 
