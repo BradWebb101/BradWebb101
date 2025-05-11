@@ -1,31 +1,57 @@
-# Welcome to my GitHub
+# Welcome to my GitHub 👋
 
-## 🔭 I live my life 100 Lambda functions at a time. A Serverless Developers moto.
+## 🎯 About Me
+I'm a Serverless AWS Developer working in the AI Center of Excellence (AICoE) at PostNL in the Netherlands. When I'm not crafting cloud solutions, you'll find me exploring the latest in AI and cloud technologies! 🚀
 
-## :mega: Languages/Tech:
+## 🛠️ Tech Stack
 
-* Python
-* Typescript
-* AWS CDK
-* Databases (SQL, Athena(Serverless woop woop), Snowflake and DynamoDB)
+### 💻 Programming Languages
+* Python 🐍
+* TypeScript 📘
+* Go 🦫
 
-## ✨ Skillset
+### ☁️ Cloud & Infrastructure
+* AWS CDK 🏗️
+* AWS Bedrock 🤖
+* Serverless Architecture ⚡
 
-* Scalable AWS Data solutions
-* Serverless event-driven architecture
-* Analytics 
-* Database design and Management.
+### 🤖 AI & Machine Learning
+* LangChain 🔗
+* Crew AI 👥
+* LlamaIndex 🦙
+* Bedrock 🏔️
 
-## 🐙 Certifications
-* AWS Certified Cloud Practitioner
-* AWS Certified Developer - Associate
-* AWS Certified Solutions Architect - Associate
+### 💾 Databases
+* SQL 📊
+* Open Search 🔍
+* Athena 🏛️
+* Snowflake ❄️
+* DynamoDB ⚡
 
-## 🌱 I’m currently working on:
+## 💡 Core Competencies
 
-* Trying to debug Typescript type errors, with one hand tied behind my back
-* Working on testing and validation of AWS data pipelines
-* Django, seems an ok framework for SQL database managment 
-* API query efficency. Just because a company doesnt state their max requests per minute. Doesnt mean it doesnt exist. 
+### ☁️ Cloud & Architecture
+* Scalable AWS Data Solutions 📈
+* Serverless Event-Driven Architecture ⚡
+* Infrastructure as Code (IaC) 🏗️
 
+### 🤖 AI & Data
+* Enterprise AI solutions (Generative AI and Supervised Machine Learning) 🧠
+* Analytics & Data Processing 📊
+* Database Design and Management 💾
+
+## 🏆 Certifications
+* AWS Certified Cloud Practitioner ☁️
+* AWS Certified Developer - Associate 💻
+* AWS Certified Solutions Architect - Associate 🏗️
+
+## 🌱 Current Focus
+
+* Building and scaling AI solutions at PostNL's AICoE 🤖
+* Debugging TypeScript type errors (with one hand tied behind my back 😅)
+* Testing and validation of AWS data pipelines (GenAI is just data) 🔍
+* API query efficiency optimization ⚡
+* Exploring new GenAI technologies and implementations 🚀
+* Go, learning a low level language for fun 🦫
+* Contributing to organisational change 🌱
 
