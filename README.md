@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
 ## 🎯 About Me
-I'm a Serverless AWS Developer working in the AI Center of Excellence (AICoE) at PostNL in the Netherlands. When I'm not crafting cloud solutions, you'll find me eating Stroop Waffles, Riding bicycles, Perfecting my Lasagne and Training Jiu Jitsu.
+I build AWS things. AWS CDK | Python and Typescript | Serverless. Currently living and working in Netherlands, enjoying Stroopwaffles and Windmills. Avid cyclist, Jiu Jitsu practitioner and Lasagne perfectionist.
 
 ## 🛠️ Tech Stack
 
@@ -43,12 +43,10 @@ I'm a Serverless AWS Developer working in the AI Center of Excellence (AICoE) at
 ## 🏆 Certifications
 * AWS Certified Cloud Practitioner ☁️
 * AWS Certified Developer - Associate 💻
-* AWS Certified Solutions Architect - Associate 🏗️
 
 ## 🌱 Current Focus
 
 * Building and scaling AI solutions at PostNL's AICoE 🤖
-* Debugging TypeScript type errors (with one hand tied behind my back 😅)
 * Testing and validation of AWS data pipelines (GenAI is just data) 🔍
 * API query efficiency optimization ⚡
 * Exploring new GenAI technologies and implementations 🚀
